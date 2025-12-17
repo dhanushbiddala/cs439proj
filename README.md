@@ -6,6 +6,11 @@ Interactive tool for analyzing Fantasy Football draft and week-to-week managemen
 
 ## Setup
 
+Clone Repository:
+   ```
+   git clone https://github.com/dhanushbiddala/cs439proj.git
+   ```
+
 Install dependencies:
    ```
    pip install -r requirements.txt
