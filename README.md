@@ -4,7 +4,28 @@ Dhanush Biddala, Vihaan Vajpayee, Rick Sun
 
 Interactive tool for analyzing Fantasy Football draft and week-to-week management strategy.
 
-## Setup
+## Local
+
+Navigate to Folder
+
+Unzip programAndData.zip
+
+Navigate to cs439proj-main:
+   ```
+   cd cs439proj-main
+   ```
+
+Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+Run Program
+   ```
+   python combined.py
+   ```
+
+## Through GitHub Repo
 
 Clone Repository:
    ```
@@ -16,11 +37,10 @@ Install dependencies:
    pip install -r requirements.txt
    ```
 
-## Run Application:
-
-```
-python combined.py
-```
+Run Program
+   ```
+   python combined.py
+   ```
 
 ## Features
 
@@ -53,4 +73,4 @@ python combined.py
 - Player Performance Density Plot:
    - Kernel Density Estimate (KDE) plot showing the distribution of weekly fantasy points for an individual player compared to the distribution for all players in their position
    - Interactive Features:
-      - Generates on click from point in Opportunity vs Efficiency Plot 
+      - Generates on click from point in Opportunity vs Efficiency Plot
