@@ -11,7 +11,7 @@ Install dependencies:
    pip install -r requirements.txt
    ```
 
-## Run
+## Run Application:
 
 ```
 python combined.py
