@@ -6,7 +6,7 @@ Interactive tool for analyzing Fantasy Football draft and week-to-week managemen
 
 ## Local
 
-Navigate to Folder:
+Unzip Files:
 
    Unzip programAndData.zip
 
@@ -30,6 +30,11 @@ Run Program
 Clone Repository:
    ```
    git clone https://github.com/dhanushbiddala/cs439proj.git
+   ```
+
+Navigate to cs439proj-main:
+   ```
+   cd cs439proj
    ```
 
 Install dependencies:
