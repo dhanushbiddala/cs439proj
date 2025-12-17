@@ -6,9 +6,9 @@ Interactive tool for analyzing Fantasy Football draft and week-to-week managemen
 
 ## Local
 
-Navigate to Folder
+Navigate to Folder:
 
-Unzip programAndData.zip
+   Unzip programAndData.zip
 
 Navigate to cs439proj-main:
    ```
